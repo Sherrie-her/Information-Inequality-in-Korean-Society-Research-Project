@@ -1,4 +1,4 @@
-# Information-Inequality-in-Korean-Society-Research-Project
+# Analyzing Regional Information Needs in Korean Society
 
 ## Project Overview 
 This repository contains research work analyzing information inequality across regions in South Korea using Naver Knowledge-iN Q&A platform data. The project employs topic modeling and SDI (Social Deprivation Index) analysis to understand regional information disparities.
