@@ -4,6 +4,7 @@ From Data Crawling of Naver Q&amp;A to Topic Modelling
 
 ## Project Overview 
 This repository contains research work analyzing information inequality across regions in South Korea using Naver Knowledge-iN Q&A platform data. The project employs topic modeling and SDI (Social Deprivation Index) analysis to understand regional information disparities.
+You may refer to the "https://drive.google.com/file/d/1QZgXyjmk-iJA-ziuBXrwXj6DjHoKCZhN/view?usp=sharing" for more information
 
 ## Repository Structure
 ```
